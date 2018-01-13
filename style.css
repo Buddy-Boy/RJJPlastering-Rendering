@@ -1,0 +1,31 @@
+h1 {
+  color:red;
+  text-align:center;
+  width:100%;
+  height:50px;
+  }
+
+.body
+  {
+    width:100%;
+    height:1000px;
+    background-color: lightblue;
+  }
+
+.center-text{
+    text-align:center;
+  }
+
+.footer
+  {
+    text-align: center;
+    background-color:red;
+  }
+
+.nav{
+    background-color:yellow;
+  }
+
+.image {
+  border-radius:50%;
+}
